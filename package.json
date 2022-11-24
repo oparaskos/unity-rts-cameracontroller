@@ -8,7 +8,9 @@
     "documentationUrl": "https://github.com/oparaskos/unity-rts-cameracontroller",
     "changelogUrl": "https://github.com/oparaskos/unity-rts-cameracontroller/blob/main/CHANGELOG.md",
     "licensesUrl": "https://github.com/oparaskos/unity-rts-cameracontroller/blob/main/LICENSE",
-    "dependencies": {},
+    "dependencies": {
+        "com.unity.inputsystem": "1.0.0"
+    },
     "keywords": [],
     "authors": {
         "name": "Oliver Zeno Paraskos",
