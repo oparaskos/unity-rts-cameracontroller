@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2295720b18f324fde8d6dedfa937bff4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pan: {fileID: -4513711270408360683, guid: 950eaf9d6c26f416b8edea5ed2ce4b8f, type: 3}
+  - cursor: {fileID: -5227710742413800821, guid: 950eaf9d6c26f416b8edea5ed2ce4b8f, type: 3}
+  - zoom: {fileID: -276501754866993604, guid: 950eaf9d6c26f416b8edea5ed2ce4b8f, type: 3}
+  - rotate: {fileID: -3288381271361243421, guid: 950eaf9d6c26f416b8edea5ed2ce4b8f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

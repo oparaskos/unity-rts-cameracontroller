@@ -1,0 +1,7 @@
+{
+    "omnisharp.useModernNet": false,
+    "files.associations": {
+        "*.asmdef": "json",
+        "*.meta": "yaml"
+    }
+}
