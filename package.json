@@ -1,6 +1,6 @@
 {
     "name": "uk.me.paraskos.oliver.rts-cameracontroller",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "displayName": "RTSCameraController",
     "description": "Simple Drop-in Camera controller to bootstrap Top down / RTS style games",
     "unity": "2019.1",
